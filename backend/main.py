@@ -43,7 +43,7 @@ def load_word_list():
         trie.insert(word)
     return trie
 
-def load_local_crossword_words(repo_path="datasets/dictionary"):
+def load_local_crossword_words(repo_path="dictionary"):
     """
     Load words from the local cloned crossword-dataset repository
     """

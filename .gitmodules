@@ -1,3 +1,6 @@
 [submodule "backend/dictionary"]
 	path = backend/dictionary
 	url = https://github.com/dolph/dictionary.git
+[submodule "backend/backend/dictionary"]
+	path = backend/backend/dictionary
+	url = https://github.com/dolph/dictionary.git
